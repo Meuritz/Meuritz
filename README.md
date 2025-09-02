@@ -4,7 +4,6 @@
 
 I'm a computer science student passionate about system engineering, cloud infrastructure, and cybersecurity, i also have a strong foundations in programming and system administration.
 
-🎯 **Seeking internships in:** Cybersecurity, System Engineering, Cloud Computing  
 🔐 Currently studying for exams...  AND Rebuilding my homelab  
 ⚙️ Building hands-on experience with system administration and infrastructure(Yes i have a homelab)  
 ⚙️ also exploring Cybersecurity  
