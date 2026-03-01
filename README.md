@@ -8,19 +8,6 @@ I'm a computer science student passionate about system engineering, cloud infras
 ⚙️ Building hands-on experience with system administration and infrastructure(Yes i have a homelab)  
 ⚙️ also exploring Cybersecurity  
 
----
-
-## 🛡️ Core Focus Areas
-
-
-### **Cloud & Infrastructure Automation**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-
----
 <div align="center">
   
 ![Cloud Meme](https://i.imgflip.com/2x3gah.jpg)
