@@ -2,7 +2,7 @@
 
 **Computer Science Student**
 
-This readme need to be updated, i have a loot going on right now, so just now everything is outdated :)
+This readme needs to be updated, i have a loot going on right now, so just now everything is outdated :)
 
 🔐 Currently studying for exams...  AND Rebuilding my homelab  
 ⚙️ Building hands-on experience with system administration and infrastructure(Yes i have a homelab)  
